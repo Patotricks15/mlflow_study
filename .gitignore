@@ -1,1 +1,6 @@
 /venv
+.venv
+/mlruns
+__pycache__
+/mlartifacts
+/output
