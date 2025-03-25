@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/896079683885154654/4c08426c02ee4830926da47cab6ed46e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '896079683885154654'
+lifecycle_stage: active
+run_id: 4c08426c02ee4830926da47cab6ed46e
+run_name: stately-croc-259
+run_uuid: 4c08426c02ee4830926da47cab6ed46e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742926456642
+status: 1
+tags: []
+user_id: patrick

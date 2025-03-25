@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/896079683885154654/b4f94e54060e46868638f42b9b88a793/artifacts
+end_time: 1742926456624
+entry_point_name: ''
+experiment_id: '896079683885154654'
+lifecycle_stage: active
+run_id: b4f94e54060e46868638f42b9b88a793
+run_name: peaceful-pug-771
+run_uuid: b4f94e54060e46868638f42b9b88a793
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742926456589
+status: 3
+tags: []
+user_id: patrick
